@@ -253,7 +253,7 @@ body {
     margin-bottom: 0;
     margin-top: 0;
 }
-@media (max-width:390px){
+@media (max-width:600px){
     .kartinki{
         display: grid;
         grid-template-columns: 4fr 4fr 4fr;
