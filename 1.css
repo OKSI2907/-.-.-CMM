@@ -37,6 +37,49 @@ body {
     display: flex;
     justify-content: center; 
 }
+
+ .smm-block {
+      max-width: 900px;
+      margin: 40px auto;
+      background-color: #fff;
+      padding: 40px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.05);
+    }
+
+    .smm-block h2 {
+      color: #222;
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+
+    .smm-block h3 {
+      color: #444;
+      font-size: 20px;
+      margin-top: 30px;
+    }
+
+    .smm-block p {
+      color: #555;
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    .platforms {
+      background-color: #f0f0f0;
+      padding: 15px 20px;
+      border-radius: 8px;
+      margin: 15px 0;
+    }
+
+    .platforms ul {
+      margin: 0;
+      padding-left: 20px;
+    }
+
+    .platforms li {
+      margin: 5px 0;
+    }
 .ims{
     font-size: 15vw;
     position: absolute;
